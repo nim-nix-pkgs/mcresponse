@@ -11,6 +11,7 @@
   inputs.src-mcresponse-master.ref   = "refs/heads/master";
   inputs.src-mcresponse-master.owner = "abbeymart";
   inputs.src-mcresponse-master.repo  = "mcresponse-nim";
+  inputs.src-mcresponse-master.dir   = "";
   inputs.src-mcresponse-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
