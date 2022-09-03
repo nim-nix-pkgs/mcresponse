@@ -1,0 +1,6 @@
+project.md
+*.exe
+resMessage.exe
+mcresponse.exe
+
+config/secure
